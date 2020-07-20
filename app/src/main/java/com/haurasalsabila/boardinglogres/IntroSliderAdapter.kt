@@ -9,6 +9,7 @@ import androidx.recyclerview.widget.RecyclerView
 
 //Adapter berfungsi untuk menampilkan item yang dimuat ke dalam adapter
 //Adapter buat menghubungkan data dengan view nya
+//adapter
 
 // membuat introSlides untuk mengubah data nya menjadi bentuk list
 class IntroSliderAdapter (private val introSlides : List<IntroSlide>)
